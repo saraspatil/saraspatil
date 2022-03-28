@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Saras Patil</h1>
 <h3 align="center">"Develop a passion for learning. If you do, you will never cease to grow."</h3>
 
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 - 👀 I’m interested in coding.
 
 - ❤️ I love Maths, Programming, Data Science, and Machine Learning.
